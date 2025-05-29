@@ -1,0 +1,18 @@
+{
+    "name": "thewateringcan/wrkshpv2-webhook",
+    "description": "Verify signatures from the workshops-v2 plugin",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "WorkshopsV2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josh Wood",
+            "email": "josh@thewateringcan.ca"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
