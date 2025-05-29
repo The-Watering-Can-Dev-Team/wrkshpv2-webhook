@@ -14,7 +14,7 @@ Add the repository to composer.json
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/The-Watering-Can-Dev-Team/phpmodbus"
+            "url": "https://github.com/The-Watering-Can-Dev-Team/wrkshpv2-webhook"
         }
     ],
     ...
