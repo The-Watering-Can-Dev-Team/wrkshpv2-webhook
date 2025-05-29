@@ -1,5 +1,6 @@
 {
     "name": "thewateringcan/wrkshpv2-webhook",
+    "version": "1.0.0",
     "description": "Verify signatures from the workshops-v2 plugin",
     "type": "library",
     "autoload": {
